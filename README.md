@@ -1,4 +1,4 @@
-- 👋 Hi, This is Amartya. I currently work at NatWest in the Commercial Banking space as a data analyst. 
+- 👋 Hi, This is Amartya. I am currently working at NatWest Group in the Commercial Banking space as a data analyst. 
 - Welcome to my Github repository. My primary aim here is to develop a collaborative environment pertaining to my interests in Data Sciene, Financial modelling, algorithms and sports analytics. 
 - Ping me here or reach me at @amartyasanyal8@gmail.com
 
