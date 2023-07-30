@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @amartyasanyal12
-- 👀 I’m interested in Machine Learning, Algorithms, Data Science
-- 🌱 I’m currently learning Python and additional data science packages
-- 💞️ I’m looking to collaborate on interesting projects
+- 👋 Hi, This is Amartya. I currently work at NatWest in the Commercial Banking Space-as a data analyst. 
+- 👀 I’m interested in Machine Learning, Financial modelling and algorithms, Data Science
+- 💞️ I’m open to collaborate on projects with mutual interest and alike. 
 - 📫 Ping me Here or reach me at @amartyasanyal8@gmail.com
 
 <!---
