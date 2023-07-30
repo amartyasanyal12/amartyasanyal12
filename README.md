@@ -1,5 +1,5 @@
 - 👋 Hi, This is Amartya. I currently work at NatWest in the Commercial Banking space as a data analyst.
-- I’m interested in Machine Learning, Financial modelling & algorithms and Data Science
+- I’m interested in Machine Learning, Financial modelling and algorithms
 - I’m open to collaborate on projects with mutual interest and alike. 
 - 📫 Ping me Here or reach me at @amartyasanyal8@gmail.com
 
